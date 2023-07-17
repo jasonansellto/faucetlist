@@ -3,7 +3,7 @@
 // Main website configuration options
 
 $site_config = array(
-	'website_url' => 'http://emberthemes.net/demo/faucetlist',
+	'website_url' => 'https://faucetlist.getmoneytoken.xyz',
 	'website_name' => 'Faucet List',
 	'default_title' => 'Faucet List',
 	'default_description' => 'Find the best bitcoin faucets',
