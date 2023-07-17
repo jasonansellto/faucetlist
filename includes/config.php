@@ -4,9 +4,9 @@
 
 $site_config = array(
 	'website_url' => 'https://faucetlist.getmoneytoken.xyz',
-	'website_name' => 'Faucet List',
-	'default_title' => 'Faucet List',
-	'default_description' => 'Find the best bitcoin faucets',
+	'website_name' => 'Get Money Faucet List',
+	'default_title' => 'Get Money Faucet List',
+	'default_description' => 'Find the best crypto faucets',
 	'default_image' => 'img.png',
 	'faucetlist_api' => 'true'
 	);
